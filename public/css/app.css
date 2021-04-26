@@ -1,0 +1,66 @@
+
+
+.addItem[data-v-cf6e40be] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input[data-v-cf6e40be] {
+    background: white;
+    border: 0px;
+    outline: none;
+    padding: 5px;
+    margin-right: 10px;
+    width: 100%;
+}
+.plus[data-v-cf6e40be] {
+    font-size: 20px;
+}
+.active[data-v-cf6e40be] {
+    color: green;
+}
+.inactive[data-v-cf6e40be] {
+    color: rgb(11, 54, 40);
+}
+
+
+.completed[data-v-1d1939b8] {
+    text-decoration: line-through;
+    color: rgb(182, 182, 182);
+}
+.itemText[data-v-1d1939b8] {
+    width: 100%;
+    margin-left: 20px;
+}
+.item[data-v-1d1939b8] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.trashcan[data-v-1d1939b8] {
+    background: whitesmoke;
+    border: none;
+    color: red;
+    outline: none;
+}
+
+
+.item[data-v-1e30e04a] {
+    background: whitesmoke;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+
+.todoListContainer[data-v-27d9b80a] {
+    width: 350px;
+    margin: auto;
+}
+.heading[data-v-27d9b80a] {
+    background: whitesmoke;
+    padding: 10px;
+}
+#title[data-v-27d9b80a] {
+    text-align: center;
+}
+
